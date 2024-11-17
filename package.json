@@ -1,0 +1,18 @@
+{
+  "name": "web-blocker",
+  "version": "1.0.0",
+  "description": "Ứng dụng chặn trang web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js", 
+  "dependencies": {},
+  "devDependencies": {},
+  "pkg": {
+    "scripts": ["index.js"],
+    "assets": []
+  },
+  "author": "",
+  "license": "ISC"
+}
