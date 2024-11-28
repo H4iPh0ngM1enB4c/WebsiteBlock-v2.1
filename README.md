@@ -4,7 +4,7 @@
 # How to use
  
 1: Download and open it with "Run as Administrator"
-
+ 
 2: chose 1 and 2 | 1 is to block the website , 2 is to unblock the website
 
 3: Enter the website name when you select one of those two sections.
